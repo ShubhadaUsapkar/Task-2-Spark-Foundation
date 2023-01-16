@@ -1,5 +1,3 @@
-
-
 # # The Sparks Foundation: Data Science and Business Analytics Intership
 # ## Prediction Using Unsupervised MLProblem 
 # ## Statement:From the given iris dataset predict the optimum number of clusters and represent it visually
